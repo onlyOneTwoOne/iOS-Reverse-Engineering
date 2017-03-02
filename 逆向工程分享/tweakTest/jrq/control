@@ -1,0 +1,9 @@
+Package: com.formax.jrq
+Name: jrq
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: hushengwu
+Author: hushengwu
+Section: Tweaks
